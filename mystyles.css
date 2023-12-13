@@ -1,0 +1,120 @@
+
+h2{
+    font-family: 'Futuro' 'Comic Sans', 'Courier New', Courier, monospace;
+}
+.darkcolor{
+    background-color: rgb(0, 0, 106) !important;
+}
+.bettercolor{
+    color: rgb(0, 0, 106)!important
+}
+.iconcolor{
+    background-color:lightgray !important;
+    color: rgb(0, 0, 106) !important;
+}
+.bigger-image {
+    transform: scale(1.75)!important;
+  }
+.header{
+    color: rgb(0, 0, 106)!important;
+    text-align: center !important;
+    font-size: 90px !important
+
+}
+.icon{
+    color: gray !important;
+   
+     font-size: 15px !important; 
+     vertical-align: 12px !important;
+}
+
+.bio{
+    font-size: 22px !important;
+}
+
+.bigger{
+    font-size:15px !important
+}
+
+
+
+
+
+
+<!--From Scratch Page-->
+
+.fontboi{
+    font-family: cursive !important;
+    font-size: x-large !important;
+}
+
+.body2{
+    background-color: rgb(181, 204, 224);
+}
+.tableaustyle{
+margin: auto !important;
+align-items: center;
+padding: 10px;
+bottom: 25px;
+}
+.movepics{
+    position: absolute;
+    top: 355px;
+    right: 610px;
+    padding: 10px;
+    height: 195px;
+}
+.titlept2{
+    color: cadetblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px !important;
+}
+.footer{
+    position: relative;
+    bottom: 10px;
+    display: block;
+    margin: auto;
+}
+.toindex{
+    font-size: small;
+}
+.youtube{
+    position: absolute;
+    top: 155px;
+    right: 620px;
+    z-index: 1;
+}
+ol{
+    font-size: 20px;
+}
+.fix{
+    color: gray !important;
+}
+.resize-img {
+    transform: scale(0.475)!important;
+    position:absolute!important;
+    display: block!important;
+    top: -69px !important;
+    left: 490px !important;
+    right: 10px
+    padding: 5px !important;
+}
+.list{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+    
+}
+.listheader{
+    font-weight: bolder;
+    font-size: large;
+}
+.tableau{
+    margin-left: auto;
+    margin-right: auto;
+  }
+.surf{
+    text-align: center;
+    color: rgb(0, 0, 106)!important;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+}
